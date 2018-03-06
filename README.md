@@ -16,6 +16,11 @@ SMTP stands for Simple Mail Transfer Protocol. The smtplib module defines an SMT
 *Python program to send formatted bulk emails to a set of users.
 
 *Also used datetime module.
->BulkMail.py*Program to send formatted bulk email to a set of users.
->csvrwa.py*Read,Write and Append functions from a CSV file.
->csvfinal.py*Program to edit csv file.
+
+-->csvrwa.py
+
+*Read,Write and Append functions from a CSV file.
+
+-->csvfinal.py
+
+*Program to edit csv file.
